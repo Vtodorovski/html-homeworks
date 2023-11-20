@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    
+
+}
+
+.nav {
+    font-size: smaller;
+    text-align: right;
+    
+
+}
+
+.label {
+    font-size: small;
+}
+
+#par1 {
+    font-size: small;
+}
+
+.div {
+    background-color: blue;
+    color: white;
+    
+}
+.div1 {
+    background-color: blue;
+    color: white;
+    text-align: right;
+}
+
+.cta {
+    background-color: green;
+    color: white;
+    font-size: larger;
+    
+}
+
+fieldset {
+    background-color: lightgray;
+    color: darkgray;
+    text-align: right;
+   
+}
+
+.roffer {
+    color: black;
+}
+
+footer {
+    background-color: blue;
+   
+    color: white;
+}
+
+.div2 {
+    text-align: right;
+}
+
+
+#h3 {
+    font-size: xx-large;
+    font-weight: bold;
+}
